@@ -16,7 +16,8 @@ npm run start:dev
 Folders
 
 src
----book
+---book 
+
 ---------book.controller.ts - nest controller
 ---------book.entity.ts - typeorm entity
 ---------book.module.ts - nest module
