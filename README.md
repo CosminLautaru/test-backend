@@ -1,9 +1,12 @@
 # test-backend
 Configuration
 
+
 1.Create .env file
 
 2.Edit env config
+
+
 
 
 Installation
@@ -11,9 +14,13 @@ Installation
 npm install
 
 
+
+
 Development
 
 npm run start:dev
+
+
 
 
 Folders
